@@ -4,6 +4,7 @@
   "description": "Backend for a Kanban app",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "test"
   },
   "author": "Maija Kekkonen",
